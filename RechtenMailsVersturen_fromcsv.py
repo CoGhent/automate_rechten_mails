@@ -13,7 +13,7 @@ from mailberichtteksten import *
 #kies juiste tekst uit mailberichtteksten.py
 #worddocument omzetten naar html: gebruik bv. https://word2cleanhtml.com/
 namenlijstcsv = "adressenlijst.csv"
-htmlSjabloon = tekstvoorvervaardigerMakeUpEN
+htmlSjabloon = mailtemplate
 #kies onderwerp en adres vanwaar mail moet worden verzonden (enkel nodig bij shared mailboxes)
 mailSubject = ""
 mailVerzendAdres = ""
